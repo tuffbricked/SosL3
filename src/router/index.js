@@ -3,11 +3,11 @@ import Home from "../views/Home.vue";
 import About from "../views/About.vue";
 import Contact from "../views/contact.vue";
 import Services from "../views/services.vue";
-import Kigali from "../views/Kigali.vue";
 import Northern from "../views/Northern.vue";
 import Southern from "../views/Southern.vue";
 import Eastern from "../views/Eastern.vue";
 import Western from "../views/Western.vue";
+import Kigali from "@/views/kigali.vue";
 
 
 const routes= [
